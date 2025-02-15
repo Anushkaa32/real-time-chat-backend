@@ -1,21 +1,11 @@
-export default [
+module.exports = [
   "strapi::errors",
-  {
-    name: "strapi::security",
-    config: {
-      contentSecurityPolicy: {
-        directives: {
-          "script-src": ["'self'", "https:"],
-          "img-src": ["'self'", "data:", "blob:", "https:"],
-        },
-      },
-    },
-  },
+  "strapi::security",
   {
     name: "strapi::cors",
     config: {
       enabled: true,
-      origin: ["*"],  // Or replace "*" with your Vercel frontend URL
+      origin: ["https://real-time-chat-frontend-five.vercel.app"],
       methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
       headers: "*",
       credentials: true,
