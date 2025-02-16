@@ -100,8 +100,13 @@ DATABASE_PASSWORD=your-db-password
 
 ---
 
-## 🖼️ Screenshots
-(Add screenshots of API responses here)
+## 🖼️ Screenshots (after implementing both frontend and backend)
+![image](https://github.com/user-attachments/assets/fa60ec22-14c1-4cef-96e5-f55c76f06301)
+![image](https://github.com/user-attachments/assets/88f14c13-2c1b-48e4-9d58-cb57120378ff)
+![image](https://github.com/user-attachments/assets/835971aa-47eb-4f52-9ec4-49d61ef4c6bf)
+![image](https://github.com/user-attachments/assets/080800ae-f866-4cc9-b4f4-0a4e18058f13)
+![image](https://github.com/user-attachments/assets/3feb07ba-8746-4b64-b7db-3d1c2a545fb5)
+![image](https://github.com/user-attachments/assets/edcae2c0-cbda-44e5-bca3-f2cdf6a612e2)
 
 ---
 
